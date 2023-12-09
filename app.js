@@ -98,3 +98,9 @@
 //    QUESTION NO 14 (NOT DONE);
   var array6 = [12,67,2]
   console.log(array6[1])
+
+  // 
+  var array9 =[12,29,1,90]
+  for(var i = 0;i < array9.length ;i++){
+console.log(array9[i])
+  }
